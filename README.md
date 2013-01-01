@@ -1,7 +1,7 @@
 #Tiny code
 ##Even tiny code matters
 
-This my tech blog about everything I find technically interesting.
+This is my tech blog about everything I find technically interesting.
 
 Feel free to leave your comments or reach me via:
 
