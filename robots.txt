@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://adamme.github.io/weblog/sitemap.xml 
